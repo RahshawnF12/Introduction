@@ -2,6 +2,8 @@ Greetings 👋, I'm
 
 # Rahshawn ==
 
+This profile is a personal collection of tools and codes used to troubleshoot and configure projects
+
 An IT troubleshooter investing time in a complex version of computer learning !
 
 🔭 I’m currently working on //       Codec: https://replit.com/@RahshawnF12/ChatBot-V14#.env.example
@@ -11,8 +13,6 @@ An IT troubleshooter investing time in a complex version of computer learning !
 📫 How to reach me //                protocol@cyberserices.com
  
 👨‍💻 All of my projects are available at:
-
-This profile is a personal collection of tools and codes used to troubleshoot and configure projects 
 
 https://replit.com/@RahshawnF12
 
