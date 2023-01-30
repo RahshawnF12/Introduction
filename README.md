@@ -1,4 +1,4 @@
-Hi 👋, I'm
+Greetings 👋, I'm
 
 # Rahshawn ==
 
@@ -11,6 +11,8 @@ An IT troubleshooter investing time in a complex version of computer learning !
 📫 How to reach me //                protocol@cyberserices.com
  
 👨‍💻 All of my projects are available at:
+
+This profile is a personal collection of tools and codes used to troubleshoot and configure projects 
 
 https://replit.com/@RahshawnF12
 
