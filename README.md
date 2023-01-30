@@ -4,7 +4,7 @@ Greetings 👋, I'm
 
 This profile is a personal collection of tools and codes used to troubleshoot and configure projects
 
-An IT troubleshooter investing time in a complex version of computer learning !
+I'm a IT-TROUBLESHOOTER? investing time in a complex version of computer learning !
 
 🔭 I’m currently working on //       Codec: https://replit.com/@RahshawnF12/ChatBot-V14#.env.example
 
